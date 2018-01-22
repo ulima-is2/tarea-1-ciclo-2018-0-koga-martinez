@@ -1,0 +1,14 @@
+P1:5
+P2:4
+P3:2
+P4:3
+Nota:14
+
+P2
+Faltan entidades importantes: estado reserva,inscripción, estado inscripción, tipo pago
+P3
+Demasiado "enmarañado" el diagrama.
+Faltan flujos alternos.
+P4
+Listas no son entidades. En todo caso se llama al tipo de la lista
+Se tiene una controladora como Mostrar enlaces que lleva a otras controladores (no es muy claro).
